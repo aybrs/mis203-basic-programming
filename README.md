@@ -25,3 +25,8 @@ Tests:
 
 Why does the order of the rules matter?: Because Python checks "if / elif" conditions from top to bottom and stops at the first condition that evaluates to True. If the Student rule came before the Child rule, a 10-year-old student would get the 30% Student discount instead of receiving the higher 40% Child discount.
 
+## -- week04 --
+
+I made lab-quiz and ı added a comment, and README.md file in the lab-quiz folder.
+
+
