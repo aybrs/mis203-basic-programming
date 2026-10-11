@@ -30,3 +30,6 @@ Why does the order of the rules matter?: Because Python checks "if / elif" condi
 I made lab-quiz and ı added a comment, and README.md file in the lab-quiz folder.
 
 
+I made suprize homework. File need some data for work. you need create acount and enter your acount (you are a teacher in the program) after that you will enter some data about your students.
+
+
